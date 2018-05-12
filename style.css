@@ -7,24 +7,18 @@ body {
 
 nav a {
   padding: 0 15px;
- color : rgba(7, 15, 59, 0.932);
+ color :black;
   margin: 0;
   text-decoration:none;
 }
 
 nav a:hover {
 padding: 0 20px;
- color : black;
-  margin: 0;
+ color :rgb(180, 170, 156);
+  margin: 10;
   text-decoration:none;
 }
 
-.hoverr:hover {
-padding: 0 2px;
- color : black;
-  margin: 0;
-  text-decoration:none;
-}
 
 img {
     width: 100%;
@@ -39,11 +33,13 @@ img {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('img/5.jpg');
+  background-image: url('img/33.jpg');
   background-attachment : fixed;
- background-size: cover;
-  color: black;
- height: 720px;
+  background-size: cover;
+  
+  color:rgb(219, 207, 190);
+  height: 740px;
+  width: 100%;
   text-shadow: 0.25px 0.25px 0.25px #000000;
   }
 
@@ -51,8 +47,8 @@ img {
   font-size: 25px;
   font-weight: 700;
   margin: 0;
-  color: #000;
-  text-shadow: 0 2px #466995;
+  color:rgb(219, 207, 190);
+  text-shadow: 0 2px black;
 }
 
 .jumbotron span {
@@ -60,14 +56,14 @@ img {
   font-weight: 700;
   font-family: 'Courier New', Courier, monospace;
   margin: 0;
-  color: rgba(0 , 0 , 0);
-  text-shadow: 0 2px #466995;
+  color:rgb(219, 207, 190);
+  text-shadow: 0 2px black;
   
 }
 
 .jumbotron h3 {
   margin: 0 0 20px;
-  color: rgb(0, 0, 0);
+  color: rgb(219, 207, 190);
   font-weight : bold;
   border-bottom: 1px solid #CCC;
   border-top: 1px solid #CCC;
