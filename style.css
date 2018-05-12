@@ -36,7 +36,6 @@ img {
   background-image: url('img/33.jpg');
   background-attachment : fixed;
   background-size: cover;
-  
   color:rgb(219, 207, 190);
   height: 740px;
   width: 100%;
@@ -141,7 +140,7 @@ div.transbox h3 {
   position: fixed;
   top: 50%;
   left: 50%;
-  font-size: 60px;
+  font-size: 50px;
   color: white;
   transform: translate(-50%,-50%);
   -ms-transform: translate(-50%,-50%);
