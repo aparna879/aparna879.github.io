@@ -25,10 +25,10 @@ img {
     height: auto;
 }
 
-#hey {
+/* #hey {
 	text-decoration : line-through;	
     font-size: 25px;
-}
+} */
 
 .jumbotron {
   display: flex;
