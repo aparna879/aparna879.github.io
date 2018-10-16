@@ -104,7 +104,7 @@ div.transbox h3 {
   color: blue;
 }
 
-.place, .dob, .address, .phone, .email, .gmail, .edu, .skills p {
+.place, .dob, .address, .phone, .email, .gmail, .edu, .skills, .linkedin p {
   font-weight : bold;
   font-size : 15px;
   }
